@@ -1,0 +1,64 @@
+.top{
+    color: aliceblue;
+    text-align: center;
+background-color: rgb(205, 50, 140);
+  
+}
+.dwn{
+    background-color: chartreuse;
+    margin-left: 0px;
+            bottom: 0px;
+            position: absolute;
+            padding-top: 10px;
+            padding-bottom: 0px;
+            text-align: left;
+            font-size: 10px;
+            font-weight: bold;
+            width: 100%;
+            margin-right: 10px;
+            padding-top: 0px;
+            padding-bottom: 0px;
+}
+li{
+    display: inline-block;
+    text-align: center;
+    position: relative;
+   padding: 20px;
+   padding-right: 15px;
+}
+.nav{
+    text-align: center;
+    background-color: rgb(229, 255, 0);
+    font-weight: bold;
+}
+.go{
+    background-color: fuchsia;
+    text-align: right;
+    bottom: 0px;
+    position: absolute;
+    padding-bottom: 0px;
+    width: 100%;
+    text-align: center;
+    padding: 20px;
+    font-size: x-large;
+    color: azure;
+}
+.reg{
+    text-align: center;
+    font-size: x-large;
+    background-image:db.jpe;
+}
+.toop{
+    background-color: dodgerblue;
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+            font-weight: bold;
+            padding-top: 0px;
+            padding-bottom: 0px;
+}
+.inn{
+    text-align: center;
+    background-color: cornflowerblue;
+    color: azure;
+}
